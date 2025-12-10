@@ -12,7 +12,7 @@ Each notebook includes explanations, formulas, implementations in Python, visual
 | Notebook | Topic |
 |---------|-------|
 | 01 | Chi-square goodness of fit test |
-| 02 | One-sample Z-Test for Mean (coming soon) |
+| 02 | Bonferonni-Holm correction |
 | 03 | One-sample T-Test (coming soon) |
 | 04 | Two-sample Independent T-Test (coming soon) |
 | 05 | Paired T-Test (coming soon) |
